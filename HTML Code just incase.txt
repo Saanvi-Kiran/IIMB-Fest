@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IIMB Fest</title>
+    <img src="https://www.iimb.ac.in/sites/default/files/inline-images/IIMB-Logo.png" alt="IIMB logo" height="40">
+    <H1>IIMB Fest 2026</H1>
+    <p>Welcome to the IIMB Fest of 2026. Hope you have a wonderful time</p>
+    <h2>Instructions:</h2>
+    <ul>
+        <li draggable="true"> no entry after guests are allowed</li>
+        <li>No entry after 6pm</li>
+        <li>Wear good clothes for DJ night</li>
+        <img src="./Images/MrGru.gif" alt="Dancing Dude" height="100">
+        <li hidden="until-found">The code to enter IIMB is "Saanvi is very smart" </li>
+        <!--there's a bunch more info to add-->
+    </ul>
+        <h2> <a href="https://maps.app.goo.gl/FuuBp6MHmtMwcApAA">Directions to reach IIMB</a></h1>
+    <ol>
+        <li>Arrive at Majestic </li>
+        <ul>
+            <li>Be careful of pickpockets</li>
+            <li><a href="https://maps.app.goo.gl/vxay9799eznWa4aG7">Metro station closes by 10pm</a></li>
+        </ul>
+        <li>Take metro towards JP Nagar</li>
+        <li> Rent a cab towards Vega city mall</li>
+        <li>Take a right at the mall and go straight 1km to find IIMB</li>
+    </ol>
+    <img src="https://picsum.photos/200/300">
+    <img src=""./images/simpsons gif file" alt="">
+    <img src="broken link" alt="img of Saanvi grinning">
+
+<hr>
+    <h2>Registor for the Fest</h2>
+    <form action="/register"></form>  
+    <label for="name">Enter your name</label>
+    <input type="text" name="name" id="name" minlength="2" maxlength="10" required> 
+    <br><br>
+    <label for="email">Enter your email id</label>
+    <input type="email" name="email" id="email" minlength="5" maxlength="20">
+    <br><br>
+    <label for="t_shirt_size">Select T Shirt Size:</label>
+    <select name="t_shirt_size" id="t_shirt_size">
+        <option value="">--please select an option--</option>
+        <option value="30">30</option>
+        <option value="32">32</option>
+        <option value="34">34</option>
+        <option value="36">36</option>    
+        <option value="38">38</option>
+        <option value="40">40</option> 
+    </select>
+ <button type="submit">Register</button>
+</head>
+<body>
+    
+</body>
+</html>
